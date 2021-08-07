@@ -4,14 +4,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
 
 My project will be Recepie app.It will allow the user to add / edit / delete items from the shopping list and fridge items. Also, it will provide the recepie details based on the ingredients from the fridge. It will display alert messages for items which are all about to expire in the fridge which are all runnig low.
 
 I would like to work and complete this project to have healthy food and organized kitchen. Don't want to waste any foods.
 
 ### Features
-Include Features here
 
 <ol>
 <li>Shopping list: User will be able to allow add/edit/delete items from shopping list</li>
@@ -21,7 +19,6 @@ Include Features here
 </ol>
 
 ### Technologies
-Include Technologies here'
 
 <ol>
 <li>Java</li>
